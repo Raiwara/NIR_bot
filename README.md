@@ -1,0 +1,9 @@
+# Телеграм-бот для агрегации научной и учебной информации
+.env.example
+
+API_TOKEN=ваш_токен
+POSTGRES_USER=ваш_пользователь
+POSTGRES_PASSWORD=ваш_пароль
+POSTGRES_DB=ваша_бд
+POSTGRES_HOST=ваш_хост
+

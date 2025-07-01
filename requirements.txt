@@ -1,0 +1,7 @@
+# Telegram-бот для агрегации научной и учебной информации
+
+aiogram==3.4.1
+asyncpg==0.29.0
+python-dotenv==1.0.0
+matplotlib==3.7.1
+
